@@ -1,6 +1,10 @@
-/**
- * Simple LED blinking example for the Tiva Launchpad
+/*
+ * main.c 
+ *
+ * Used to initalize modules and configure FreeRTOS.
+ * Authors: Jos Craw, Josh Hulbert, Harry Dobbs
  */
+
 #include <stdbool.h>
 #include <stdint.h>
 
@@ -102,7 +106,8 @@ void refresh_animation(void* pvParameters) {
 }
 
 /**
- * 
+ * Task that updates the current plot values 
+ * to UART.
  */
 void alt_plot_update(void* pvParameters) {
     vTaskDelay(3000);
