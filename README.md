@@ -23,6 +23,12 @@ Due to the issues with the serial output of the HeliViewer not being sanitised t
 webpage automatically this has been used to change the webpage to make the UI more attractive when operating the heli menu. The JavaScript for this can
 be found [here](scripts/js).
 
+#### Before
+![Before](wiki/Heli_before.png)
+
+#### After
+![After](wiki/Heli-redesign.png)
+
 ### Security Issues
 Due to both the XSS vulnerability and the exposure of the OpenOCD and GDB ports on `4444` and `3333` respectively the XSS vulnerability
 can be exploited and using the exposed GDB port `arm-none-eabi-gdb` can be connected to the remote target and a binary with XSS can be run on any HeliRig even
