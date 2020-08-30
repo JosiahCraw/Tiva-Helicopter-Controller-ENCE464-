@@ -27,7 +27,7 @@ be found [here](scripts/js).
 ![Before](wiki/Heli_before.png)
 
 #### After
-![After](wiki/Heli-redesign.png)
+![After](wiki/heli-redesign.png)
 
 ### Security Issues
 Due to both the XSS vulnerability and the exposure of the OpenOCD and GDB ports on `4444` and `3333` respectively the XSS vulnerability
