@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [ master ]
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
     container: joscraw/arm-gcc-cmake
     steps:
