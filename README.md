@@ -40,11 +40,14 @@ this scriptn is not to be used maliciously)
 ## Usage
 
 ### Building
-![Building](wiki/make.svg)
+<p align="center">
+<img src="wiki/make.svg" align="center"/>
+</p>
 
 ### Flashing
-
-![Flashing](wiki/make-flash.svg)
+<p align="center">
+<img src="wiki/make-flash.svg" align="center"/>
+</p>
 
 ### Differences from stock repo
 This uses CMake so have some differences compared to the demo repo, this was made before that so for example this linker script is more complex. The CMakeLists.txt and files in [cmake](cmake) folder describe the building of the project
