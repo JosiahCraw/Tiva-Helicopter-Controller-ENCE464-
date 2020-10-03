@@ -1,5 +1,5 @@
 # ENCE464 Assignment 1
-
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/JosiahCraw/Tiva-Helicopter-Controller-ENCE464-/build)
 
 ## Structure
 
