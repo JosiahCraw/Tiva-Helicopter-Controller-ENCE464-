@@ -52,6 +52,7 @@ user@linux~$ make
 user@linux~$ make flash
 ```
 --!>
+
 ### Flashing
 ![Flashing](wiki/make-flash.svg)
 
