@@ -1,8 +1,7 @@
 # ENCE464 Assignment 1
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/JosiahCraw/Tiva-Helicopter-Controller-ENCE464-/build)
 ![GitHub](https://img.shields.io/github/license/JosiahCraw/Tiva-Helicopter-Controller-ENCE464-)
-
-##
+![GitHub Releases](https://img.shields.io/github/downloads/JosiahCraw/Tiva-Helicopter-Controller-ENCE464-/v1.0.0/total)
 
 ## Structure
 
