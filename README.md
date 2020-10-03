@@ -40,8 +40,7 @@ this scriptn is not to be used maliciously)
 ## Usage
 
 ### Building
-
-<img style="height: 100px" src="wiki/make.svg">
+![Building](wiki/make.svg)
 
 ### Flashing
 
