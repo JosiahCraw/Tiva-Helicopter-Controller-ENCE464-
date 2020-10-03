@@ -1,6 +1,9 @@
 # ENCE464 Assignment 1
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/JosiahCraw/Tiva-Helicopter-Controller-ENCE464-/build)
 ![GitHub](https://img.shields.io/github/license/JosiahCraw/Tiva-Helicopter-Controller-ENCE464-)
+
+##
+
 ## Structure
 
 ### HeliLib
@@ -56,7 +59,7 @@ This uses CMake so have some differences compared to the demo repo, this was mad
 The original demo code from Andre's repo can be found in [demo-code/](demo_code)
 
 ### Debugging
-Using VScode plus the cortex-debug extension will allow debugging.
+Using VSCode plus the `cortex-debug` extension will allow debugging.
 
 ## Authors
 -   Jos Craw <jcr124@uclive.ac.nz>
