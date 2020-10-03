@@ -40,20 +40,11 @@ this scriptn is not to be used maliciously)
 ## Usage
 
 ### Building
-![Building](wiki/make.svg)
-<!--```bash
-user@linux~$ mkdir build
-user@linux~$ cd build
-user@linux~$ cmake ..
-user@linux~$ make
-```
-### Flashing
-```bash
-user@linux~$ make flash
-```
---!>
+
+<img style="height: 100px" src="wiki/make.svg">
 
 ### Flashing
+
 ![Flashing](wiki/make-flash.svg)
 
 ### Differences from stock repo
